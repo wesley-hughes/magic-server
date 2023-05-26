@@ -1,0 +1,13 @@
+[
+    {
+        "model": "magicmenuapi.mmuser",
+        "pk": 1,
+        "fields": {
+          "user": 1,
+          "vegetarian": false,
+          "vegan": false,
+          "dairy_free": false,
+          "gluten_free": false
+        }
+      }
+]
